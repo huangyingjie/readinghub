@@ -14,16 +14,16 @@ owner:
   bio:            "美团网前端工程师，性独，嗜古文，慕先贤。"
   email:          huangyingjie1111@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:        https://github.com/huangyingjie 
+  twitter:       hyj1254 
+  facebook:      huangyingjie 
+  github:        huangyingjie
   stackexchange:  
   linkedin:       
   instagram:      
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +Yingjie Huang
+  google_plus:
 
 # Background image to be tiled on all pages
 background: 
