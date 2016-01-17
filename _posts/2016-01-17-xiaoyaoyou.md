@@ -1,78 +1,38 @@
 ---
 layout: post
-title: Sample Post
-description: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+title: 逍遥游，庄子追求的人生境界
+description: "此节是庄子描述没好愿景的一节，可谓提纲挈领。"
 modified: 2014-12-24
-tags: [sample post]
-image:
-  feature: abstract-3.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+tags: [逍遥游]
 ---
 
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
+《庄子》分内篇、外篇、杂篇，文章数十，而开头第一篇《逍遥游》窃以为是提纲挈领，向人们描绘了庄子心目中理想的人生境界或生活方式。
+接下来的文章都是在详细论证为什么是这样以及如何达到。
 
-### Blockquotes
+## 乘天地之正，御六气之辩，以游之无穷，谓之逍遥
 
-> Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
+天地万物，无论是小小的雀鸟还是翼若垂天之云的大鹏，无论是漂浮在覆水上草芥还是江河中的大船，无论是朝生暮死的小虫还是以五百岁为春秋的灵龟，无论是“踌躇满志”的俗人还是御风而行的列子，都不能做到真正的逍遥，因为它们尽管有大小、高下之分，但终究都是有所依凭，有所限制。
 
-## List Types
+而真正的逍遥就是“无所待”，亦即无所依赖，不凭借任何外物，畅游于天地之间。
 
-### Ordered Lists
 
-1. Item one
-   1. sub item one
-   2. sub item two
-   3. sub item three
-2. Item two
+## 至人无己，神人无功，圣人无名
 
-### Unordered Lists
+如何才能做到“无所待”呢？那就是无己，无功，无名。
 
-* Item one
-* Item two
-* Item three
+* 不依赖外物的核心是“无己”，忘掉自我偏见，无欲无求，自然不需要任何依赖。
 
-## Tables
+* 功和名都是欲求、偏见的外在表现，对于真正追求“逍遥”的人来说，反而是累赘。
 
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|----
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=====
-| Foot1   | Foot2   | Foot3
-{: rules="groups"}
+是不是与佛家的破除“我执”非常接近呢？
 
-## Code Snippets
 
-Syntax highlighting via Pygments
+## 诞生的成语
 
-{% highlight css %}
-#container {
-  float: left;
-  margin: 0 -240px 0 0;
-  width: 100%;
-}
-{% endhighlight %}
+* 越殂代疱
 
-Non Pygments code example
+今人解释此成语多是从管理学的角度来分析，强调不要把本该别人做的事给做了。
 
-    <div id="awesome">
-        <p>This is great isn't it?</p>
-    </div>
+其实，其本意是，人不要去求本不属于自己的声名，不要为虚妄之名所羁绊，仅取生存之所需即可，反而自由自在。
 
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-{% highlight html %}
-<a href="#" class="btn btn-success">Success Button</a>
-{% endhighlight %}
-
-<div markdown="0"><a href="#" class="btn">Primary Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-success">Success Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-warning">Warning Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-danger">Danger Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-info">Info Button</a></div>
+许由拒绝尧的禅让，表示自己不要凭空收受圣王的声名，并接连比喻：鹪鹩巢于深林不过一枝、偃鼠饮河不过满腹、尸祝不越殂代疱，目的都是淡泊明志：名望对自己无用，安己之所即可。
