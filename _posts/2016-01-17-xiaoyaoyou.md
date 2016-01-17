@@ -1,78 +1,24 @@
 ---
 layout: post
-title: Sample Post
-description: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+title: 逍遥游，庄子追求的人生境界
+description: "此节是庄子描述没好愿景的一节，可谓提纲挈领。"
 modified: 2014-12-24
-tags: [sample post]
-image:
-  feature: abstract-3.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+tags: [逍遥游]
 ---
 
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
+《庄子》分内篇、外篇、杂篇，文章数十，而开头第一篇《逍遥游》窃以为是提纲挈领，向人们描绘了庄子心目中理想的人生境界或生活方式。
+接下来的文章都是在详细论证为什么是这样以及如何达到。
 
-### Blockquotes
+## 乘天地之正，御六气之辩，以游之无穷，谓之逍遥
 
-> Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
+真正的逍遥就是“无所待”，亦即无所依赖，不凭借任何外物，畅游于天地之间。
 
-## List Types
+## 至人无己，神人无功，圣人无名
 
-### Ordered Lists
+如何才能做到“无所待”呢？那就是无己，无功，无名。
 
-1. Item one
-   1. sub item one
-   2. sub item two
-   3. sub item three
-2. Item two
+* 不依赖外物的核心是“无己”，忘掉自我，无欲无求，自然不需要任何依赖。
 
-### Unordered Lists
+* 功和名都是欲求的外在表现，对于真正追求“逍遥”的人来说，反而是累赘。
 
-* Item one
-* Item two
-* Item three
-
-## Tables
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|----
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=====
-| Foot1   | Foot2   | Foot3
-{: rules="groups"}
-
-## Code Snippets
-
-Syntax highlighting via Pygments
-
-{% highlight css %}
-#container {
-  float: left;
-  margin: 0 -240px 0 0;
-  width: 100%;
-}
-{% endhighlight %}
-
-Non Pygments code example
-
-    <div id="awesome">
-        <p>This is great isn't it?</p>
-    </div>
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-{% highlight html %}
-<a href="#" class="btn btn-success">Success Button</a>
-{% endhighlight %}
-
-<div markdown="0"><a href="#" class="btn">Primary Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-success">Success Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-warning">Warning Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-danger">Danger Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-info">Info Button</a></div>
+是不是与佛家的破除“我执”非常接近呢？
